@@ -1,0 +1,7 @@
+{
+    "nombre": "Juan Perez",
+    "edad": 20,
+    "carrera": "Ingeniería electronica",
+    "semestre": 5,
+    "gustos" : ["Futbol","Comer", "UFC", "Viajar"]
+}

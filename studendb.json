@@ -1,0 +1,20 @@
+{
+    "est123": {
+        "nombre": "Juan Perez",
+        "edad": 20,
+        "carrera": "Ingeniería de Sistemas",
+        "semestre": 5
+    },
+    "est124": {
+        "nombre": "Maria Rodriguez",
+        "edad": 22,
+        "carrera": "Matemáticas",
+        "semestre": 6
+    },
+    "est125": {
+        "nombre": "Carlos Ramirez",
+        "edad": 21,
+        "carrera": "Física",
+        "semestre": 4
+    }
+}
