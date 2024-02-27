@@ -1,0 +1,7 @@
+{
+    "nombre": "javier Grijalba",
+    "edad": 24,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 6,
+    "gustos" : ["basketball","correr", "Paz", "Dormir"]
+}
