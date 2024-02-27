@@ -1,0 +1,7 @@
+{
+    "nombre": "Alejandro Giron",
+    "edad": 28,
+    "carrera": "Tecnología en Desarrollo de Software",
+    "semestre": 6,
+    "gustos" : ["Futbol","Programacion", "Gaming"]
+}
