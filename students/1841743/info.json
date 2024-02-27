@@ -1,0 +1,7 @@
+{
+    "nombre": "Franklin Aguirre Ortiz",
+    "edad": 23,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 7,
+    "gustos" : ["la salsa","las motos", "el gimnasio", "el profesor"]
+}
