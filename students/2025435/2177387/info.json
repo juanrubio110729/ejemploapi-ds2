@@ -1,0 +1,7 @@
+{
+    "nombre": "Julián Rendón",
+    "edad": 20,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 6,
+    "gustos" : ["Ping Pong", "Videojuegos", "Fútbol", "NBA", "Gatos"]
+}
