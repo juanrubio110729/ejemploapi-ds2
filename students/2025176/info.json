@@ -1,0 +1,7 @@
+{
+    "nombre": "Esperanza Olivo",
+    "edad": 23,
+    "carrera": "Tecnología en Desarrollo de Software",
+    "semestre": 5,
+    "gustos" : ["Leer", "Dormir", "Escuchar música", "Jugar"]
+}
