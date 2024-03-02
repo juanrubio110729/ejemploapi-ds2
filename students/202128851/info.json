@@ -1,0 +1,7 @@
+{
+    "nombre": "Alejandra Ortega",
+    "edad": 22,
+    "carrera": "Desarrollo de Software",
+    "semestre": 3,
+    "gustos" : ["Musica","Peliculas"]
+}
