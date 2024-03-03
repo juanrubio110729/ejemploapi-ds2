@@ -1,0 +1,7 @@
+{
+    "nombre": "Ivan Camilo Morales",
+    "edad": 19,
+    "carrera": "Tecnología en Desarrollo de Software",
+    "semestre": 6,
+    "gustos" : ["Ping Pong", "Futbol", "Jugar Videojuegos", "Escuchar música"]
+}
