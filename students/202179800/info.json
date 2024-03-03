@@ -1,0 +1,7 @@
+{
+    "nombre": "Juan Sebastian Cifuentes Vallejo",
+    "edad": 23,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 7,
+    "gustos" : ["Musica","Historias", "Ciencia"]
+}
