@@ -1,0 +1,7 @@
+{
+    "nombre": "Emanuel Rivas",
+    "edad": 20,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 6,
+    "gustos" : ["Piano", "Musica Orquestal", "Videojuegos", "Natación", "Gatos"]
+}
