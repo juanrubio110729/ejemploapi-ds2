@@ -1,0 +1,7 @@
+{
+    "nombre": "Kevin Velez",
+    "edad": 21,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 7,
+    "gustos" : ["Ping Pong", "Futbol", "Video Juegos"]
+}
