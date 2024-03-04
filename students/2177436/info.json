@@ -1,0 +1,7 @@
+{
+    "nombre": "Juan Sebastian Muñoz Rojas",
+    "edad": 20,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 6,
+    "gustos" : ["Animals","Sports", "Gym", "Videogames"]
+}
