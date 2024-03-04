@@ -1,0 +1,7 @@
+{
+    "nombre": "Juan Sebastian Oviedo Oviedo",
+    "edad": 21,
+    "carrera": "Tecnologia en Desarrollo de Software",
+    "semestre": 6,
+    "gustos" : ["videojuegos", "correr"]
+}
