@@ -1,0 +1,7 @@
+{
+    "nombre": "Juan David Rodriguez",
+    "edad": 20,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 5,
+    "gustos" : ["Gatos","PC Gaming", "Comer", "Motos"]
+}
