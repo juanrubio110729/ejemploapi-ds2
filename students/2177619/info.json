@@ -1,0 +1,7 @@
+{
+    "nombre": "Miguel Caicedo",
+    "edad": 20,
+    "carrera": "Tecnologia en Desarrollo de Software",
+    "semestre": 6,
+    "gustos" : ["Futbol","Viajar en moto","MotoGp","F1","Ver peliculas"]
+}
