@@ -1,0 +1,7 @@
+{
+    "nombre": "David Urrego Martínez",
+    "edad": 25,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 6,
+    "gustos" : ["Cine","Videojuegos", "Leer", "Deporte"]
+}
