@@ -1,0 +1,7 @@
+{
+    "nombre": "Juan pablo marin",
+    "edad": 23,
+    "carrera": "Tecnologia en desarrollo de software",
+    "semestre": 7,
+    "gustos" : ["Ajedrez","Futbol", "Programacion"]
+}
