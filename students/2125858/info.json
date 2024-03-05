@@ -1,0 +1,7 @@
+{
+    "nombre": "Cristian Camilo Gomez",
+    "edad": 26,
+    "carrera": "Tecnología en desarrollo de software",
+    "semestre": 6,
+    "gustos" : ["Bailar","Futbol", "Dormir"]
+  }
