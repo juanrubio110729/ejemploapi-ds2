@@ -1,0 +1,7 @@
+{
+    "nombre": "Samuel Galindo",
+    "edad": 19,
+    "carrera": "Ingeniería de sistemas",
+    "semestre": 6,
+    "gustos" : ["VideoGames", "Anime", "Basketball"]
+}

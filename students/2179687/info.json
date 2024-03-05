@@ -1,0 +1,7 @@
+{
+    "nombre": "Estiven Andres Martinez Granados",
+    "edad": 24,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 6,
+    "gustos" : ["Gatos","Perros", "Nadar", "Gym"]
+}
