@@ -1,0 +1,7 @@
+{
+    "nombre": "Andres Mauricio Muñoz Garcia",
+    "edad": 21,
+    "carrera": "Tecnologia en Desarrollo de Software",
+    "semestre": 5,
+    "gustos" : ["Perros","Video Juegos", "Comer", "Motos"]
+}
