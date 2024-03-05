@@ -1,0 +1,7 @@
+{
+  "nombre": "Jose Manuel Bravo Rubiano",
+  "edad": 21,
+  "carrera": "Tecnologia en desarrollo de software",
+  "semestre": 5,
+  "gustos" : ["jugar","cine","deportes"]
+}
