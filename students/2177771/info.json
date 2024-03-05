@@ -1,0 +1,12 @@
+{
+    "nombre": "Stiven Castro Sanchez",
+    "edad": 22,
+    "carrera": "Desarrollo de software",
+    "semestre": 6,
+    "gustos": [
+        "Futbol",
+        "Videojuegos",
+        "Peliculas",
+        "Gym"
+    ]
+}
