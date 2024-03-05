@@ -1,0 +1,7 @@
+{
+    "nombre": "Nicolas Herrera",
+    "edad": 19,
+    "carrera": "Ingeniería en sistemas",
+    "semestre": 6,
+    "gustos" : ["Ping Pong","Videojuegos", "Leer", "Viajar"]
+}

@@ -1,0 +1,7 @@
+{
+  "nombre": "Juan David Loaiza",
+  "edad": 20,
+  "carrera": "Ingeniería de Sistemas",
+  "semestre": 6,
+  "gustos": ["Musica", "Videojuegos", "Programacion"]
+}
