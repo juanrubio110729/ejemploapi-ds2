@@ -1,0 +1,7 @@
+{
+    "nombre": "John Pasichana",
+    "edad": 22,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 8,
+    "gustos" : ["Futbol","Videojuegos", "Comer"]
+}
