@@ -1,7 +1,7 @@
 {
-    "nombre": "Juan David Rodriguez",
-    "edad": 20,
+    "nombre": "Jose Manuel Palma",
+    "edad": 19,
     "carrera": "Ingeniería de Sistemas",
-    "semestre": 5,
-    "gustos" : ["Gatos","PC Gaming", "Comer", "Motos"]
+    "semestre": 7,
+    "gustos" : ["Perros","Musica", "Ejercicio", "Motos"]
 }
