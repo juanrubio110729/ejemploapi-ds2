@@ -1,0 +1,12 @@
+{
+    "nombre": "Michael Stevens Cardenas Urbano",
+    "edad": 21,
+    "carrera": "Tecnologia en Desarrollo de Software",
+    "semestre": 5,
+    "gustos": [
+        "Desarrollo",
+        "Futbol",
+        "F1",
+        "Viajar"
+    ]
+}
