@@ -1,0 +1,7 @@
+{
+  "nombre": "Valeria Suarez Ibarra",
+  "edad": 21,
+  "carrera": "Tecnología en desarrollo de software",
+  "semestre": 5,
+  "gustos" : ["Nadar","Futbol", "Dormir"]
+}
