@@ -1,7 +1,7 @@
 {
-    "nombre": "Juan David Rodriguez",
-    "edad": 20,
-    "carrera": "Ingeniería de Sistemas",
+    "nombre": "Sebastian Oviedo",
+    "edad": 21,
+    "carrera": "Tecnologia en Desarrollo de Software",
     "semestre": 5,
-    "gustos" : ["Gatos","PC Gaming", "Comer", "Motos"]
+    "gustos" : ["Dormir","Videojuegos", "Conocer lugares", "Comida"]
 }
