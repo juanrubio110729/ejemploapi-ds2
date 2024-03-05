@@ -1,0 +1,7 @@
+{
+    "nombre": "Kevin Andrés Girón Villegas",
+    "edad": 24,
+    "carrera": "Desarrollo de software",
+    "semestre": 5,
+    "gustos" : ["Correr","Nadar", "Dormir", "Comer"]
+}
