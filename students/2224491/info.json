@@ -1,0 +1,7 @@
+{
+    "nombre": "Juan Sebastian Molina Cuellar",
+    "edad": 29,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 6,
+    "gustos" : ["Caminar","Correr", "Gaming", "Viajar", "Leer", "Escuchar música"]
+}
