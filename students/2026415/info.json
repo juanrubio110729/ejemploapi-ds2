@@ -1,0 +1,7 @@
+{
+    "nombre": "Yhan Carlos Trujillo",
+    "edad": 24,
+    "carrera": "Ingeniería de Sistemas",
+    "semestre": 6,
+    "gustos" : ["Gatos","Videojuegos", "Comer", "Deporte","Anime","Harry Potter"]
+}
